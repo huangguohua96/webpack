@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.home {
+  height: 400px;
+  width: 400px;
+  line-height: 400px;
+  text-align: center;
+  margin: 50px auto;
+  border: 1px solid #f00;
+  background-image: url(../image/笑1.jpg);
+}
+
+image {
+  height: 400px;
+  width: 400px;
+}
